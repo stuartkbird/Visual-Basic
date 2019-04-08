@@ -1,0 +1,11 @@
+links for maze game ideas
+
+
+Part 1.	https://www.youtube.com/watch?v=K0g54G3YxUs
+Part 2.	https://www.youtube.com/watch?v=VVo4eQEEXQc
+Part 3.	https://www.youtube.com/watch?v=ptzvuU7P9dY
+https://itsourcecode.com/2018/10/maze-game-visual-basic-2013/
+https://www.vimore.org/watch/DA5Iim0aRfA/visual-basic-2010-maze-labyrinth-game-programming//
+
+default vis studio save location:
+C:\Users\stuartbird\source\repos
